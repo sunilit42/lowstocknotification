@@ -17,11 +17,12 @@ Stores >> Configuration >> Inventory >> Stock Notification
 
 ![image](https://user-images.githubusercontent.com/2923438/214044675-b84767be-2f21-43b5-af0f-21e9da5f0e93.png)
 
-How to install
+# How to install
 - download module
 - create directoy MageYug/LowStockNotification into app/code directory
 
-Any Issue / Customization on module : please send email on patelsunil42@gmail.com
-
-History
+# History
 - 1.0.0 - Intitial Version of Module
+
+
+Any Issue / Customization on module : please send email on <a href="mailto:patelsunil42@gmail.com">patelsunil42@gmail.com</a>
