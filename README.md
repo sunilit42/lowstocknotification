@@ -5,9 +5,12 @@ Magento provides report for out of stock product but does not provide functional
 Module setting into Admin Side
 Stores >> Configuration >> Inventory >> Stock Notification 
 
-- Email Setting >> Enable - Yes/NO
+- Email Setting >> Enable - Yes/No
 - Email Template  >> Template for Email
 - Admin Email Address  >> Admin Email Address 
+
+![image](https://user-images.githubusercontent.com/2923438/214044675-b84767be-2f21-43b5-af0f-21e9da5f0e93.png)
+
 
 History
 - 1.0.0 - Intitial Version of Module
