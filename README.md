@@ -15,6 +15,7 @@ How to install
 - download module
 - create directoy MageYug/LowStockNotification into app/code directory
 
+Any Issue / Customization on module : please send email on patelsunil42@gmail.com
 
 History
 - 1.0.0 - Intitial Version of Module
