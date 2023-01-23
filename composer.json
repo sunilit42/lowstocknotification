@@ -1,0 +1,26 @@
+{
+  "name": "mageyug/lowstocknotification",
+  "description": "Send Low Stock Notification email to Admin",
+  "keywords": ["stock","notication"],
+  "require": {
+    "magento/module-inventory": "*",
+    "magento/module-reports": "*"
+  },
+  "type": "magento2-module",
+  "license": "GPL-3.0",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Sunil Patel",
+      "email": "patelsunil42@gmail.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "MageYug\\LowStockNotification\\": ""
+    }
+  }
+}
