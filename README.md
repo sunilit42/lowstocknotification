@@ -1,6 +1,5 @@
-This module useful to send email to admin for out of stock report
-
-Magento provides report for out of stock product but does not provide functionality to send email to admin, so this module enhance that functionality
+Admin Low Stock Notification free extension
+ - This module useful to send daily report of out of stock product report to admin  
 
 # Features
 - Send email to admin for out of stock product 
