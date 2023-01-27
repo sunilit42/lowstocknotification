@@ -1,5 +1,5 @@
-Admin Low Stock Notification free extension
- - This module useful to send daily report of out of stock product report to admin  
+# Admin Low Stock Notification free extension
+ - This module useful to send daily report of out of stock product report to admin , so admin can easily know which product is out of stock
 
 # Features
 - Send email to admin for out of stock product 
