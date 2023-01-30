@@ -1,4 +1,4 @@
-# Admin Low Stock Notification via Email once a Day - free extension
+# Product Low Stock Notification via Email once a Day to admin - free extension
  - This module useful to send daily report of out of stock product report to admin , so admin can easily know which product is out of stock
  - This module based on magento inbuild functionality out of stock report 
 
